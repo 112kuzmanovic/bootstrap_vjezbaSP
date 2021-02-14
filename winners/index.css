@@ -1,0 +1,35 @@
+table thead tr{
+    background-color: rgb(9, 63, 9);
+    color: white;
+    
+    
+    
+}table{
+    margin: 150px;
+    
+
+}.one{
+    background-color: rgb(17, 92, 17);
+    color: white;
+}.two{
+    background-color: rgb(9, 63, 9);
+    color: white;
+
+}table th{
+    letter-spacing: 2px;
+    font-style: italic;
+    text-align: center;
+    
+}.row{
+    background-color: rgb(3, 49, 3);
+}html{
+    background-color: rgb(3, 49, 3);
+
+}.naslov{
+    text-align: center;
+    color: white;
+    
+    margin-right: -500px;
+}#br{
+    font-weight: bold;
+}

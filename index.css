@@ -1,0 +1,8 @@
+#slike{
+    height: 300px;
+    width: 400px;
+}.panel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
